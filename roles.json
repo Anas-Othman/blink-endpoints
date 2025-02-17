@@ -1,0 +1,79 @@
+{
+    "attendees_access":{
+       "level":0,
+       "sub_access":{
+          
+       }
+    },
+    "admission_portal_access":{
+       "level":0,
+       "sub_access":{
+          
+       }
+    },
+    "session_check_in_access":{
+       "level":0,
+       "sub_access":{
+          
+       }
+    },
+    "experience_access":{
+       "level":0,
+       "sub_access":{
+          
+       }
+    },
+    "rides":{
+       "level":0,
+       "sub_access":{
+          
+       }
+    },
+    "flight_access":{
+       "level":0,
+       "sub_access":{
+          
+       }
+    },
+    "reservation_access":{
+       "level":0,
+       "sub_access":{
+          
+       }
+    },
+    "venues_access":{
+       "level":0,
+       "sub_access":{
+          
+       }
+    },
+    "updates_access":{
+       "level":0,
+       "sub_access":{
+          
+       }
+    },
+    "incidents_access":{
+       "level":0,
+       "sub_access":{
+          
+       }
+    },
+    "chat_access":{
+       "level":0,
+       "sub_access":{
+          "attendee_access":{
+             "level":0,
+             "label":"Attendee"
+          },
+          "chat_access":{
+             "level":0,
+             "label":"Attendee"
+          },
+          "event_access":{
+             "level":0,
+             "label":"Attendee"
+          }
+       }
+    }
+ }
